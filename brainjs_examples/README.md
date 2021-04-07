@@ -1,4 +1,6 @@
-# Testing brain.js library for machine learning
+# Testing brain.js library for machine learning 
+
+Following examples of Brad Traversy https://github.com/bradtraversy/brainjs_examples
 
 ## Index1
 
